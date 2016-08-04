@@ -1,0 +1,3 @@
+[submodule "CommonDoc"]
+	path = CommonDoc
+	url = https://github.com/ssddss/CommonDoc.git
